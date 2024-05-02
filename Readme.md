@@ -1,1 +1,1 @@
-Hello ls from Linus
+Hello from Linus
